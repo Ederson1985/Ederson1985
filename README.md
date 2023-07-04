@@ -21,6 +21,7 @@
 <br>
 <br>
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=Ederson1985&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats">
 <br>
 
 <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" >
