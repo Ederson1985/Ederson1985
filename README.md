@@ -1,16 +1,32 @@
-### Hi there 👋
+<p > Olá, me chamo Ederson e estou em busca do full stack perfeito!!! </p>
+<br>
+<p> Sou aluno da plataforma:
+  <br>
+  <img width=80px height= 80px src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" > 
+  
+<br>
+<br>
+<p> Tecnologias em aprendizado:</p>
 
-<!--
-**Ederson1985/Ederson1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+</p>
 
-Here are some ideas to get you started:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" >
+
+
+
+
+
+
