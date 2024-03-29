@@ -1,23 +1,23 @@
-<p > Olá, me chamo Ederson e estou em busca do full stack perfeito!!! </p>
+<h1 align="center"><b> Olá, me chamo Ederson e estou em busca do full stack perfeito!!!</b></h1>
 <br>
-<p> Sou aluno da plataforma:
-  <br>
+<h3>Plataforma de ensino</h3>
   <img width= 80px height= 80px src="https://cdn.areademembros.com/files/instancia_731//image/cDo7aKpDpEAkLRPHuYlAXdFmHtYyjPljSjUIZgu6.png" >
-  <img  width= 160px height= 80px src="https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/4a006790620c5986cdb7914adf0cafe3a4172291.webp">
-<p> Tecnologias em aprendizado:</p>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-</p>
+<h3>Tecnologias</h3>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+</span>
 <br>
-Entre em contato comigo
-<p>
+<h3>Entre em contato comigo</h3>
+<span>
 <a href=mailto:edersonmichel26@gmail.com>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href=https://www.linkedin.com/in/ederson-michel-luz-dos-santos target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</span>
   </p>
   Versionamento de código
   <p>
@@ -33,6 +33,8 @@ Entre em contato comigo
 <br>
 <br>
 <br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Ederson1985&theme=blue-green">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ederson1985&theme=blue-green">
 <br>
 <br>
 <br>
@@ -40,7 +42,7 @@ Entre em contato comigo
 <img src="https://github-readme-stats.vercel.app/api?username=Ederson1985&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats">
 <br>
 
-<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" >
+<img src="https://img.shields.io/github/followers/Ederson1985.svg?style=social&label=Follow&maxAge=2592000" >
 
 
 
